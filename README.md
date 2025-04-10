@@ -1,2 +1,2 @@
 # webD.demo
-this is demo for web developing
+this is demo for my first learning.
